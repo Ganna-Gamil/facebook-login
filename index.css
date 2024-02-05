@@ -1,0 +1,95 @@
+.fb{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    margin-left:200px;
+    align-items: center;
+    border: 2px;
+    border-color: rgb(231, 229, 229);
+border-style: solid;
+border-radius: 5px;
+padding: 17px;
+width: 310px;
+padding-bottom: 20px;
+height:250px;
+border-style: solid;
+
+}
+.right{
+    display: flex;
+flex-direction: column;
+}
+.par{
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.h{
+    color:rgb(81, 81, 230) ;
+    font-size:  50px; ;
+    font-weight: bold;
+    font-family: "poppins" , Arial;
+
+}
+.p{
+    font-family: "poppins" , Arial;
+    font-size: 18px;
+    font-weight: 550;
+    word-spacing: 5px;
+}
+.input{
+    margin-bottom: 10px;
+    width: 300px;
+    height: 30px;
+border-color: rgb(231, 229, 229);
+border-style: solid;
+border-radius: 5px;
+
+}
+.button{
+    width:300px ;
+    border-style: solid;
+border-radius: 5px;
+background-color: rgb(81, 81, 230);
+height:35px ;
+border-color: rgb(81, 81, 230) ;
+color: white;
+margin-bottom: 20px;
+margin-top: 7px;
+}
+.link{
+    color:rgb(81, 81, 230)  ;
+    margin-bottom: 30px;
+    text-decoration: none;
+    font-family: "poppins" , Arial;
+    font-size: 14px;
+}
+.buttonn{
+    width: 170px;
+    height: 38px;
+    background-color: rgb(37, 190, 37);
+    border-radius: 5px;
+    color: white;
+    border-color: rgb(37, 190, 37) ;
+    border-style: solid;
+}
+.create{
+    margin-left: 250px;
+    display: flex;
+    align-items: baseline;
+}
+.hh{
+    font-size: 13px;
+    margin-right: 5px;
+    font-family: "poppins" , Arial;
+}
+.pp{
+    font-size: 13px;
+    font-family: "poppins" , Arial;
+    font-weight: 500;
+}
